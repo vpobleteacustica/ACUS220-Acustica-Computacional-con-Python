@@ -1,5 +1,3 @@
-#ACUS220: Acústica Computacional con Python
-
 # Universidad Austral de Chile.
 # Instituto de Acústica.
 ## ACUS220: Acústica Computacional con Python.
