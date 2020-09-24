@@ -1,1 +1,1 @@
-# acustica-computacional-con-python
+# ACUS220 Acústica computacional con python
