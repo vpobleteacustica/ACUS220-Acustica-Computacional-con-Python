@@ -7,7 +7,7 @@ acústicos basados en lenguaje matemático y los apliquen a través de códigos 
 comportamientos de sistemas acústicos, interpreten gráficamente cambios en las variables acústicas que
 intervienen y evalúen numéricamente resultados.
 * **Semestre:** 
-  + Primavera 2020. 
+  + Primavera 2021. 
 * **Requisitos:** 
   + Programación (INFO058).
 * **Docente responsable:** 
