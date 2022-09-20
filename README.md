@@ -7,13 +7,14 @@ acústicos basados en lenguaje matemático y los apliquen a través de códigos 
 comportamientos de sistemas acústicos, interpreten gráficamente cambios en las variables acústicas que
 intervienen y evalúen numéricamente resultados.
 * **Semestre:** 
-  + Primavera 2021. 
+  + Primavera 2022. 
 * **Requisitos:** 
   + Programación (INFO058).
 * **Docente responsable:** 
   + Dr. Víctor Poblete Ramírez, vpoblete@uach.cl 
-* **Ayudante:**
-  + Diego Espejo Alquinta, diego.espejo@alumnos.uach.cl 
+* **Ayudantes:**
+  + Diego Espejo A., diego.espejo@alumnos.uach.cl
+  + Esteban Gallardo B., esteban.gallardo02@alumnos.uach.cl
 ### Contenidos
 * **Unidad 1:** Entornos de trabajo.
 + Instalación de Python3, miniconda y Jupyter Notebook.
