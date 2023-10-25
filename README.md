@@ -56,16 +56,16 @@ intervienen y evalúen numéricamente resultados.
 
 ### Proyectos: 
   + **Pueden ser resueltos en grupos de máximo dos estudiantes.**
-  + Resolver 3 Tareas (t1, t2, t3), alojarlas en un repositorio privado del alumno y dar acceso mediante colaboración a profesor y ayudante. (25%).
+  + Resolver la evaluación parcial 1 (30%).
   + Se espera que el alumno pueda crear sus propias rutinas de Python.
-  + Plantear un proyecto (P1) de una rama de la acústica, alojarlo en el repositorio privado del alumno. (35%).
+  + Plantear un proyecto (P1) de una rama de la acústica, alojarlo en el repositorio privado del alumno. (30%).
   + Se espera que el alumno pueda investigar y modelar en lenguaje Python un problema de la acústica.
   + Proponer un trabajo grupal (TG1) maximo 2 personas, de un proyecto de una rama de la acústica a elección, alojarlo en el repositorio privado del alumno(s). (40%). 
   + Se espera que el/los alumno(s) pueda(n) investigar y modelar en lenguaje Python un problema de la acústica y trabajar en equipo integrando y colaborando en el contexto profesional e interprofesional.
 
 ### Evaluaciones y nota final:     
   + Evaluaciones: Fechas y ponderaciones.
-  > + La nota final se calcula: NF = 0.25(t1+t2+t3) + 0.35 P1 + 0.4 TG.
+  > + La nota final se calcula: NF = 0.30 EV1 + 0.30 P1 + 0.4 TG.
   > + Por cada unidad al final de la 5ta semana se entrega la evaluación, a excepción de la unidad 3 que se debe entregar a la 6ta semana. Se descontará 1 punto por cada día de atraso.
        
   + Se aprueba con NotaFinal >= 4.0.
